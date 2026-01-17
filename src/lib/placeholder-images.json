@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "liver-scan",
+      "description": "A placeholder image of a liver CT scan.",
+      "imageUrl": "https://images.iimg.live/images/incredible-work-8329.webp",
+      "imageHint": "liver ct scan"
+    }
+  ]
+}
